@@ -7,6 +7,12 @@ module.exports = {
   ],
   theme: {
     extend: {
+      fontFamily: {
+        gilroy: ['Gilroy', 'sans-serif'], // Add the custom font family
+      },
+      colors: {
+        'swiggy': "#FF761E", // Add the custom color with the name 'swiggy'
+      },
       backgroundImage: {
         "gradient-radial": "radial-gradient(var(--tw-gradient-stops))",
         "gradient-conic":

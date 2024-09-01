@@ -9,9 +9,18 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "leaflet": "^1.9.4",
+    "mongoose": "^8.5.3",
+    "next": "14.2.5",
+    "node-fetch": "^3.3.2",
     "react": "^18",
     "react-dom": "^18",
-    "next": "14.2.5"
+    "react-leaflet": "^4.2.1",
+    "socket-io": "^1.0.0",
+    "socket.io": "^4.7.5",
+    "socket.io-client": "^4.7.5",
+    "uuid": "^10.0.0",
+    "ytdl-core": "^4.11.5"
   },
   "devDependencies": {
     "postcss": "^8",
